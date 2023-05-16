@@ -40,7 +40,7 @@ const router = createBrowserRouter([
         element: <Authorization/>
       },
       {
-        path: '/adress',
+        path: '/address',
         element:<Address/>
       }
     ]
